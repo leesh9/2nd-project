@@ -45,8 +45,8 @@ public class EmailCheckAction implements Action {
 
 	public static String naverMailSend(String email) {
         String host = "smtp.naver.com"; // 네이버일 경우 네이버 계정, gmail경우 gmail 계정
-        String user = "leeshtest@naver.com"; 
-        String password = "test1234!";
+        String user = "아이디"; 
+        String password = "비밀번호";
 
         // SMTP 서버 정보를 설정한다.
         Properties props = new Properties();
