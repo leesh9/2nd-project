@@ -1,11 +1,5 @@
 # 🛍️ 이커머스 웹 플랫폼
 
-![badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white")
-![badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white")
-![badge](https://img.shields.io/badge/MyBatis-000000?style=flat-square")
-![badge](https://img.shields.io/badge/Tomcat-FFCC00?style=flat-square&logo=apachetomcat&logoColor=black")
-![badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white")
-
 ---
 
 ## 📌 프로젝트 소개
